@@ -33,7 +33,7 @@ const Main = () => {
                 </h2>
                 <div className='flex justify-between pt-6 max-w-[200px] w-full' >
                     <FaTwitter className='cursor-pointer' size={23} />
-                    <FaInstagram className='cursor-pointer' size={23} />
+                    <FaInstagram href="https://instagram.com/adhydhrm?igshid=MzMyNGUyNmU2YQ==" className='cursor-pointer' size={23} />
                     <FaLinkedinIn className='cursor-pointer' size={23} />
                     <FaGithub className='cursor-pointer' size={23} />
                 </div>
